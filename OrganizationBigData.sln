@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "OrganizationBigData", "OrganizationBigData\OrganizationBigData.pyproj", "{EE94C9BA-97F7-46B5-8998-4BE43879E871}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HDFS", "HDFS\HDFS.pyproj", "{34F12BE3-1693-477B-B854-EFE28AB7BDE6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "СrossСorrelation", "СrossСorrelation\СrossСorrelation.pyproj", "{95074308-A0D5-4279-BCF9-929299E87277}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RelationalDataProcessing", "RelationalDataProcessing\RelationalDataProcessing.pyproj", "{6E49AFDF-2C1A-4EFD-B5BE-B64B1BC3DFA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE94C9BA-97F7-46B5-8998-4BE43879E871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE94C9BA-97F7-46B5-8998-4BE43879E871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F12BE3-1693-477B-B854-EFE28AB7BDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F12BE3-1693-477B-B854-EFE28AB7BDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95074308-A0D5-4279-BCF9-929299E87277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95074308-A0D5-4279-BCF9-929299E87277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E49AFDF-2C1A-4EFD-B5BE-B64B1BC3DFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E49AFDF-2C1A-4EFD-B5BE-B64B1BC3DFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {885342B9-31ED-4485-AEEB-EEB992EA6053}
+	EndGlobalSection
+EndGlobal
